@@ -3,7 +3,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td>
   
 👋 Hii, I am Sneha Nandi <br>
 💼 I am a **Full Stack Developer**
@@ -15,8 +15,8 @@
 </td>
 <td width="40%" align="right">
 
-<img alt="Coding" width="700"
-src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img alt="Coding" width="450"
+src="https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif">
 
 </td>
 </tr>
